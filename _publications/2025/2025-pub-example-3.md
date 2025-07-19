@@ -1,6 +1,6 @@
 ---
 title:           ReVeal：Self-Evolving Code Agents via Iterative Generation-Verification
-date:           2025-06-19 00:01:00 +0800
+date:           2025-07-19 00:01:00 +0800
 selected:       true
 pub:            "Arxiv"
 # pub_pre:        "Submitted to "
