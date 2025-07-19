@@ -16,7 +16,7 @@ abstract: >-
 cover:         assets/images/covers/sensors.jpg
 authors:
   - Yanmin Zhou*  
-  - Yijie Luo*
+  - Yijie Luo
   - Zheng Yan  
   - Yiyang Jin  
   - Shuo Jiang  

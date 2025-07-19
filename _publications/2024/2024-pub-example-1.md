@@ -16,7 +16,7 @@ abstract: >-
 cover:         assets/images/covers/T-ase.png
 authors:
   - Yanmin Zhou*  
-  - Yiyang Jin*  
+  - Yiyang Jin  
   - Ping Lu  
   - Shuo Jiang  
   - Zhipeng Wang†  

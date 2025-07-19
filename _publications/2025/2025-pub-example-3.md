@@ -15,8 +15,8 @@ abstract: >-
 
 cover:          assets/images/covers/nerlps.png
 authors:
-  - Yiyang Jin*
-  - Kunzhao Xu*
+  - Yiyang Jin
+  - Kunzhao Xu
   - Hang Li  
   - Xueting Han†
   - Yanmin Zhou

@@ -16,7 +16,7 @@ abstract: >-
 cover:          assets/images/covers/iros1.png
 authors:
   - Yanmin Zhou*  
-  - Yiyang Jin*  
+  - Yiyang Jin  
   - Rong Jiang  
   - Xin Li  
   - Hongrui Sang  
