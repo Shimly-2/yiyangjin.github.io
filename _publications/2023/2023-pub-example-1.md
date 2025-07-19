@@ -5,7 +5,7 @@ selected:       true
 pub:            "Applied Energy"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Journal</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
 pub_date:       "2023"
 
 abstract: >-
