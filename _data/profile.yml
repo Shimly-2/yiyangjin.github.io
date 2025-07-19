@@ -29,11 +29,11 @@ portrait_caption: >-
 
 education:
 - name: Tongji University
-  logo: assets/images/badges/tongji.jpg
+  logo: assets/images/badges/tongji.png
   position: M.S. Control Science and Engineering
   date: Sep. 2023 - Jul. 2026
 - name: Tongji University
-  logo: assets/images/badges/tongji.jpg
+  logo: assets/images/badges/tongji.png
   position: B.S. Automation
   date: Sep. 2019 - Jul. 2023
   
@@ -59,7 +59,7 @@ awards:
   date: 2023
 
 
-service:
+# service:
 # - name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
 # - name: Reviewer of <a href="https://acmmm2024.org/">ACM-MM 2024</a>
 # - name: Reviewer of <a href="https://conferences.miccai.org/2025/">MICCAI 2025</a>

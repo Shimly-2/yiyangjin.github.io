@@ -2,7 +2,7 @@
 title:          Uni-Zipper: A Multi-Modal Perception Framework of Deformable Objects with Unpaired Data 
 date:           2025-03-26 00:01:00 +0800
 selected:       true
-pub:            "Arxiv"
+pub:            "IROS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
@@ -25,6 +25,7 @@ authors:
   
 links:
   Paper: https://ras.papercept.net/conferences/scripts/auspace.pl
+  
 ---
 
 
