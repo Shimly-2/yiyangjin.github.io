@@ -1,5 +1,5 @@
 ---
-title:          T-TD3: A Reinforcement Learning Framework for Stable Grasping of Deformable Objects Using Tactile Prior
+title:          T-TD3\: A Reinforcement Learning Framework for Stable Grasping of Deformable Objects Using Tactile Prior
 date:           2024-08-05 00:01:00 +0800
 selected:       true
 pub:            "T-ASE"

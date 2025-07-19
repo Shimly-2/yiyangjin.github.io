@@ -1,5 +1,5 @@
 ---
-title:          Sensing Differently: Unifying Vision, Language, Posture and Tactile in Robotic Perception  
+title:          Sensing Differently\: Unifying Vision, Language, Posture and Tactile in Robotic Perception  
 date:           2025-07-09 00:01:00 +0800
 selected:       true
 pub:            "IROS"

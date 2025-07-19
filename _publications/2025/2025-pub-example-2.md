@@ -1,5 +1,5 @@
 ---
-title:          Uni-Zipper: A Multi-Modal Perception Framework of Deformable Objects with Unpaired Data 
+title:          Uni-Zipper\: A Multi-Modal Perception Framework of Deformable Objects with Unpaired Data 
 date:           2025-07-09 00:01:00 +0800
 selected:       true
 pub:            "IROS"
