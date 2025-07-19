@@ -1,0 +1,70 @@
+primary_name: "Yiyang Jin"
+secondary_name: ""
+navbar_name: "Yiyang Jin's Home Page"
+
+positions:
+  - '<span class="no-break"><img src="assets/images/badges/tongji.jpg" alt="Tongji University" class="inline-badge"/></span> M.S., Tongji University'
+
+email: "jin_yiyang@tongji.edu.cn"
+gscholar: FrnhvDAAAAAJ&hl=en
+# sscholar: Rongsheng-Wang/2261313297
+github: shimly-2
+# twitter: jinyiyang
+# wechat_qrcode: assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# zhihu: wang-rong-sheng-74
+# resume: assets/cv/Resume_RongshengWang.pdf
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+# xiaohongshu: 5fa2663000000000010068e2
+
+short_bio: >-
+  I am Yiyang Jin, a Master’s student at Tongji University, where I conduct research in Robotics under the supervision of Prof. Yanmin Zhou. My academic journey began with a Bachelor’s degree in Control Science and Engineering from Tongji University, and I am now deeply engaged in the field of reinforcement learning and robotics. My research interests lie in several cutting-edge areas, including 1) Reinforcement Learning, 2) Multimodal Learning, 3) Vision-Language-Action Model, 4) Foundation Models, and 5) Causal Inference. These topics are at the forefront of AI research and hold great potential for robotics. I am particularly interested in collaborating with researchers from diverse fields to drive innovation and address complex challenges. If you share similar interests or have opportunities to discuss, I would be thrilled to connect with you.
+
+show_portrait: true
+portrait_url: assets/images/photos/person.jpg
+portrait_caption: >-
+  I am Yiyang Jin~
+
+education:
+- name: Tongji University
+  logo: assets/images/badges/tongji.jpg
+  position: M.S. Control Science and Engineering
+  date: Sep. 2023 - Jul. 2026
+- name: Tongji University
+  logo: assets/images/badges/tongji.jpg
+  position: B.S. Automation
+  date: Sep. 2019 - Jul. 2023
+  
+# experience:
+# - name: CUHK (SZ)
+#   logo: assets/images/badges/cuhk-sz.png
+#   position: Research Assistant (Supervisor is <a href="https://wabyking.github.io/old.html">Benyou Wang</a>)
+#   date: Sep. 2024 - Now
+# - name: Qiyuan.Tech
+#   logo: assets/images/badges/qiyuan.png
+#   position: CTO, Reasercher
+#   date: Oct. 2023 - Now
+# - name: HKUST (GZ) 
+#   logo: assets/images/badges/hkust-gz.png
+#   position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
+#   date: Feb. 2024 -	May 2024
+
+
+awards:
+- name: National scholarship
+  date: 2021
+- name: National scholarship
+  date: 2023
+
+
+service:
+# - name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
+# - name: Reviewer of <a href="https://acmmm2024.org/">ACM-MM 2024</a>
+# - name: Reviewer of <a href="https://conferences.miccai.org/2025/">MICCAI 2025</a>
+
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
+# if you keep the link to the template so that more people can benefit from it. Thanks!
+footer_text: >-
+  Copyright © 2024 <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. All Rights Reserved.
