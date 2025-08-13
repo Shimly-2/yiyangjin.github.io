@@ -23,7 +23,7 @@ authors:
   - Shuo Jiang  
   - Zhipeng Wang†  
   - Bin He
-# links:
+links:
 #   Dataset: https://huggingface.co/datasets/xsdfasfgsa/VLaPT
   
 ---
