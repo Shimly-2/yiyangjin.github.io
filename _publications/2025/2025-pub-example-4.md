@@ -13,7 +13,7 @@ abstract: >-
 
 
 
-cover:          assets/images/covers/robollm.png
+cover:          assets/images/covers/robollm.jpg
 authors:
   - Yanmin Zhou*  
   - Yiyang Jin  
