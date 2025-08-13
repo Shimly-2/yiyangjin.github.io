@@ -1,5 +1,5 @@
 ---
-title:          RoboLLM: A Unified Multimodal Vision-Language-Action Framework for Perception, Understanding, and Generation  
+title:          RoboLLM：A Unified Multimodal Vision-Language-Action Framework for Perception, Understanding, and Generation  
 date:           2025-07-15 00:01:00 +0800
 selected:       true
 pub:            "RA-L"
@@ -23,8 +23,8 @@ authors:
   - Shuo Jiang  
   - Zhipeng Wang†  
   - Bin He
-links:
-  Dataset: https://huggingface.co/datasets/xsdfasfgsa/VLaPT
+# links:
+#   Dataset: https://huggingface.co/datasets/xsdfasfgsa/VLaPT
   
 ---
 

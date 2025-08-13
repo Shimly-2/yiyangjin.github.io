@@ -1,5 +1,5 @@
 ---
-title:          Bridging Offline and Online Learning: Reinforcement Learning-Enhanced Robot Vision and Language Manipulation  
+title:          Bridging Offline and Online Learning：Reinforcement Learning-Enhanced Robot Vision and Language Manipulation  
 date:           2025-08-10 00:01:00 +0800
 selected:       true
 pub:            "Arxiv"
