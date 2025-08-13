@@ -13,7 +13,7 @@ abstract: >-
 
 
   
-cover:         assets/images/covers/T-ase.png
+cover:         assets/images/covers/T-ase.jpg
 authors:
   - Yanmin Zhou*  
   - Yiyang Jin  

@@ -13,7 +13,7 @@ abstract: >-
 
 
 
-cover:          assets/images/covers/iclr.png
+cover:          assets/images/covers/iclr.jpg
 authors:
   - Yanmin Zhou*  
   - Yiyang Jin  
